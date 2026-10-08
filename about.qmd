@@ -7,7 +7,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/nyongesa-calistus
     - icon: github
       text: GitHub
       href: https://github.com
