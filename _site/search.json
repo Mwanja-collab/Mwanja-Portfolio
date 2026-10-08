@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Statistical Analysis Project\n\nProject Summary\nThis project presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.\n\n\nKey Objectives & Findings\n\nData Wrangling: Processed and cleaned datasets using tidyverse.\nStatistical Modeling: Conducted regression analysis and hypothesis testing to evaluate key variables.\nVisualizations: Created custom data charts using ggplot2.\n\n\n📄 Open / Download Full PDF Report"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I am a passionate statistician with experience in statistical modeling, data visualization, and reporting using R.\nEducation & skills\nSkills: R, Quarto, Excel, STATA, Statistical Analysis, Data Visualization among others.\nEducation: BSc Statistics, Kirinyaga University"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "I am a Statistician & Data Analyst specializing in statistical modeling, quantitative analysis, and interactive data reporting using R.\nThis website showcases my analytical projects, data visualizations, and research work.\n\n\n\n\nProjects: Explore my full statistical analyses, code, reports, and interactive dashboards.\n\n\n\n\n\n\nStatistical Analysis & Modeling: Regression Analysis, Hypothesis Testing, Applied Statistics\nData Tools & Software: R, Quarto, RStudio, Git/GitHub\nVisualization & Reporting: ggplot2, tidyverse, Automated HTML/PDF Reports\n\n\n\n\nFeel free to browse my work or reach out directly via Email!"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Projects: Explore my full statistical analyses, code, reports, and interactive dashboards."
+  },
+  {
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Statistical Analysis & Modeling: Regression Analysis, Hypothesis Testing, Applied Statistics\nData Tools & Software: R, Quarto, RStudio, Git/GitHub\nVisualization & Reporting: ggplot2, tidyverse, Automated HTML/PDF Reports\n\n\n\n\nFeel free to browse my work or reach out directly via Email!"
+  }
+]
