@@ -42,4 +42,4 @@ Using statistical methods in R, the study examines the distribution of NRW, its 
 
 ### Project Report
 
-📄 [View / Download Research Report](files/water_performance_report.pdf){.btn .btn-success}
+[📄 View or Download Research Report](files/water_performance_report.pdf)
