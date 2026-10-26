@@ -2,11 +2,13 @@
 title: "Projects"
 ---
 
-# Statistical Analysis Project
+# 1.Statistical Analysis Projects
 
 ### Project Summary
 
-This project presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.
+These projects presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.
+
+Find a variety of projects below.
 
 ### Key Objectives & Findings
 
@@ -17,3 +19,27 @@ This project presents an end-to-end data analysis performed in R, focusing on ex
 ------------------------------------------------------------------------
 
 [📄 Open / Download Full PDF Report](Statistical-Analysis.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}
+
+## 2.Statistical Assessment of Water Service Providers in Kenya
+
+### Project Overview
+
+This project analyses the operational, financial, and service delivery performance of water service providers in Kenya, with particular attention to non-revenue water (NRW).
+
+Using statistical methods in R, the study examines the distribution of NRW, its relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.
+
+### Statistical Methods
+
+- Descriptive statistics
+
+- Data quality assessment
+
+- Data visualisation using `ggplot2`
+
+- Pearson correlation analysis
+
+- Wilcoxon rank-sum test
+
+### Project Report
+
+📄 [View / Download Research Report](files/water_performance_report.pdf){.btn .btn-success}
