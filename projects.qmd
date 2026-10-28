@@ -2,44 +2,51 @@
 title: "Projects"
 ---
 
-# 1.Statistical Analysis Projects
+# 1. Statistical Analysis Projects
 
 ### Project Summary
 
-These projects presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.
-
-Find a variety of projects below.
+These projects present end-to-end data analyses performed in R, focusing on exploratory data analysis, statistical modelling, and data visualisation.
 
 ### Key Objectives & Findings
 
 - **Data Wrangling:** Processed and cleaned datasets using `tidyverse`.
-- **Statistical Modeling:** Conducted regression analysis and hypothesis testing to evaluate key variables.
-- **Visualizations:** Created custom data charts using `ggplot2`.
+- **Statistical Modelling:** Conducted regression analysis and hypothesis testing to evaluate key variables.
+- **Visualisations:** Created charts using `ggplot2`.
 
-------------------------------------------------------------------------
+---
 
 [📄 Open / Download Full PDF Report](Statistical-Analysis.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}
 
-## 2.Statistical Assessment of Water Service Providers in Kenya
+---
+
+# 2. Statistical Assessment of Water Service Providers in Kenya
 
 ### Project Overview
 
 This project analyses the operational, financial, and service delivery performance of water service providers in Kenya, with particular attention to non-revenue water (NRW).
 
-Using statistical methods in R, the study examines the distribution of NRW, its relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.
+Using statistical methods in R, the study examines the distribution of NRW, relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.
 
 ### Statistical Methods
 
 - Descriptive statistics
-
 - Data quality assessment
-
 - Data visualisation using `ggplot2`
-
 - Pearson correlation analysis
-
 - Wilcoxon rank-sum test
 
-### Project Report
+### Research Report
 
-[📄 View or Download Research Report](files/water_performance_report.pdf)
+[📄 View or Download Research Report](files/water_performance_report.pdf){.btn .btn-primary target="_blank"}
+
+### Dataset and Reproducibility
+
+The dataset is available for researchers, students, and other interested users through the following repositories.
+
+- **[Access Dataset on GitHub](https://github.com/Mwanja-collab/Kenya-Water-Performance)** — view the repository and download the CSV file.
+- **[Cite Dataset on Zenodo](https://doi.org/10.5281/zenodo.23685035)** — access the dataset's permanent DOI record.
+
+### Tools Used
+
+R · RStudio · Statistical Analysis · Data Visualisation · GitHub · Zenodo
