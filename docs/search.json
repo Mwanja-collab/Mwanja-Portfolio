@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Statistical Analysis Project\n\nProject Summary\nThis project presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.\n\n\nKey Objectives & Findings\n\nData Wrangling: Processed and cleaned datasets using tidyverse.\nStatistical Modeling: Conducted regression analysis and hypothesis testing to evaluate key variables.\nVisualizations: Created custom data charts using ggplot2.\n\n\n📄 Open / Download Full PDF Report"
+    "text": "These projects presents an end-to-end data analysis performed in R, focusing on exploratory data analysis, statistical modeling, and data visualization.\nFind a variety of projects below.\n\n\n\n\nData Wrangling: Processed and cleaned datasets using tidyverse.\nStatistical Modeling: Conducted regression analysis and hypothesis testing to evaluate key variables.\nVisualizations: Created custom data charts using ggplot2.\n\n\n📄 Open / Download Full PDF Report\n\n\n\n\n\nThis project analyses the operational, financial, and service delivery performance of water service providers in Kenya, with particular attention to non-revenue water (NRW).\nUsing statistical methods in R, the study examines the distribution of NRW, its relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.\n\n\n\n\nDescriptive statistics\nData quality assessment\nData visualisation using ggplot2\nPearson correlation analysis\nWilcoxon rank-sum test\n\n\n\n\n📄 View or Download Research Report"
+  },
+  {
+    "objectID": "projects.html#statistical-assessment-of-water-service-providers-in-kenya",
+    "href": "projects.html#statistical-assessment-of-water-service-providers-in-kenya",
+    "title": "Projects",
+    "section": "",
+    "text": "This project analyses the operational, financial, and service delivery performance of water service providers in Kenya, with particular attention to non-revenue water (NRW).\nUsing statistical methods in R, the study examines the distribution of NRW, its relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.\n\n\n\n\nDescriptive statistics\nData quality assessment\nData visualisation using ggplot2\nPearson correlation analysis\nWilcoxon rank-sum test\n\n\n\n\n📄 View or Download Research Report"
   },
   {
     "objectID": "about.html",
