@@ -2,7 +2,7 @@
 title: "My Portfolio"
 ---
 
-# Hello, I'm Calistus Mwanja 
+# Hello, I'm Calistus Mwanja
 
 A **Statistician & Data Analyst** specializing in statistical modeling, quantitative analysis, and interactive data reporting using R.
 
