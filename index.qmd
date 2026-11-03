@@ -2,9 +2,9 @@
 title: "My Portfolio"
 ---
 
-# Hello, I'm Cally Mwanja 👋
+# Hello, I'm Calistus Mwanja 
 
-I am a **Statistician & Data Analyst** specializing in statistical modeling, quantitative analysis, and interactive data reporting using R.
+A **Statistician & Data Analyst** specializing in statistical modeling, quantitative analysis, and interactive data reporting using R.
 
 This website showcases my analytical projects, data visualizations, and research work.
 
