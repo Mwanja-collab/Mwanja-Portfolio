@@ -14,11 +14,11 @@ These projects present end-to-end data analyses performed in R, focusing on expl
 - **Statistical Modelling:** Conducted regression analysis and hypothesis testing to evaluate key variables.
 - **Visualisations:** Created charts using `ggplot2`.
 
----
+------------------------------------------------------------------------
 
 [📄 Open / Download Full PDF Report](Statistical-Analysis.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}
 
----
+------------------------------------------------------------------------
 
 # 2. Statistical Assessment of Water Service Providers in Kenya
 
@@ -44,15 +44,14 @@ Using statistical methods in R, the study examines the distribution of NRW, rela
 
 The dataset is available for researchers, students, and other interested users through the following repositories.
 
-- **[Access Dataset on GitHub](https://github.com/Mwanja-collab/Kenya-Water-Performance)** — view the repository and download the CSV file.
-- **[Cite Dataset on Zenodo](https://doi.org/10.5281/zenodo.23685035)** — access the dataset's permanent DOI record.
+- [**Access Dataset on GitHub**](https://github.com/Mwanja-collab/Kenya-Water-Performance) — view the repository and download the CSV file.
+- [**Cite Dataset on Zenodo**](https://doi.org/10.5281/zenodo.23685035) — access the dataset's permanent DOI record.
 
 ### Tools Used
 
 R · RStudio · Statistical Analysis · Data Visualisation · GitHub · Zenodo
 
-
----
+------------------------------------------------------------------------
 
 # 3. Student Academic Performance Analysis
 
@@ -73,6 +72,4 @@ The study applies statistical methods to investigate factors associated with fin
 
 ### Research Report
 
-[📄 View / Download Report](files/student_performance_report.pdf){.btn .btn-primary target="_blank"}
-
-
+[📄 View / Download Report](files/students_performance_report.pdf){.btn .btn-primary target="_blank"}
