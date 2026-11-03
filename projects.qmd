@@ -38,7 +38,7 @@ Using statistical methods in R, the study examines the distribution of NRW, rela
 
 ### Research Report
 
-[📄 View or Download Research Report](files/water_performance_report.pdf){.btn .btn-primary target="_blank"}
+[📄 View / Download Report](files/water_performance_report.pdf){.btn .btn-primary target="_blank"}
 
 ### Dataset and Reproducibility
 
@@ -50,3 +50,29 @@ The dataset is available for researchers, students, and other interested users t
 ### Tools Used
 
 R · RStudio · Statistical Analysis · Data Visualisation · GitHub · Zenodo
+
+
+---
+
+# 3. Student Academic Performance Analysis
+
+### Project Overview
+
+This project analyses student academic performance using the Mathematics Student Performance dataset obtained from the UCI Machine Learning Repository. It examines demographic, family, educational, social and lifestyle characteristics associated with students' academic outcomes.
+
+The study applies statistical methods to investigate factors associated with final examination grades and identify students who may be at risk of poor academic performance.
+
+### Statistical Methods
+
+- Descriptive statistics and exploratory data analysis
+- Statistical hypothesis testing
+- Multiple linear regression
+- Logistic regression
+- Weighted logistic regression
+- Model evaluation using confusion matrices, sensitivity, specificity and ROC-AUC
+
+### Research Report
+
+[📄 View / Download Report](files/student_performance_report.pdf){.btn .btn-primary target="_blank"}
+
+
