@@ -15,7 +15,7 @@ A collection of statistical investigations applying quantitative techniques to e
 
 **Tools:** R, RStudio and statistical methods.
 
-**Report:** [View / Download Statistical Analysis Report](files/Statistical-Analysis.pdf)
+**Report:** [View / Download Statistical Analysis Report](files/Statistical-Analysis-Using-R.pdf)
 
 ------------------------------------------------------------------------
 
