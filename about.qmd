@@ -16,10 +16,32 @@ about:
       href: mailto:callymwanja@gmail.com
 ---
 
-Hello! I am a passionate statistician with experience in statistical modeling, data visualization, and reporting using R.
+Hello! I am **Calistus Mwanja Nyongesa**, a passionate Statistician, Statistical Researcher, and R Package Developer with an interest in statistical modelling, data analysis, visualization, and reproducible research using R.
 
-**Education & skills**
+I enjoy transforming data into meaningful insights and developing practical statistical solutions that support research and evidence-based decision-making.
 
-**Skills**: R, Quarto, Excel, STATA, Statistical Analysis, Data Visualization among others.
+## Education & Skills
 
-**Education**: BSc Statistics, Kirinyaga University
+**Education:** Bachelor of Science in Statistics, Kirinyaga University.
+
+**Technical Skills:** R, Quarto, Excel, STATA, Statistical Analysis, Statistical Modelling, Data Visualization, Data Management, and Statistical Reporting.
+
+## R Package Development
+
+I am the **founder and developer of [rWaterKenya](https://github.com/Mwanja-collab/rWaterKenya)**, an open-source R package developed to provide accessible datasets for statistical analysis and research on water service providers in Kenya.
+
+The package contains:
+
+- **`water_data`** – Cross-sectional performance data covering 94 water service providers.
+
+- **`water_panel_data`** – Panel data comprising 92 matched water service providers observed across two financial years.
+
+Through this initiative, I aim to contribute to open-source statistical computing, promote reproducible research, and make locally relevant datasets accessible to researchers, students, and practitioners.
+
+**Explore my software:** [rWaterKenya on GitHub](https://github.com/Mwanja-collab/rWaterKenya).
+
+## Research Interests
+
+My interests include statistical modelling, applied statistics, biostatistics, public health research, panel data analysis, and the application of statistical computing to real-world problems.
+
+I am committed to continuous learning, research, and developing open-source tools that contribute to the wider statistical community.
