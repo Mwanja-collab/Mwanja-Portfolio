@@ -16,7 +16,7 @@ about:
       href: mailto:callymwanja@gmail.com
 ---
 
-Hello! I am **Calistus Mwanja Nyongesa**, a passionate Statistician, Statistical Researcher, and R Package Developer with an interest in statistical modelling, data analysis, visualization, and reproducible research using R.
+Hello! I am **Calistus Mwanja Nyongesa**, a passionate Statistician, Statistical Researcher, and R Package Developer with an interest in statistical modelling, data analysis, visualization, and reproducible research.
 
 I enjoy transforming data into meaningful insights and developing practical statistical solutions that support research and evidence-based decision-making.
 
