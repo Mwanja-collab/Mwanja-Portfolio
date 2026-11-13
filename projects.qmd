@@ -72,4 +72,40 @@ The study applies statistical methods to investigate factors associated with fin
 
 ### Research Report
 
-[📄 View / Download Report](files/students_performance_report.pdf){.btn .btn-primary target="_blank"}
+[📄 View / Download Report](https://mwanja-collab.github.io/Mwanja-Portfolio/files/Students_perfomance_report.pdf){.btn .btn-primary target="_blank"}
+
+------------------------------------------------------------------------
+
+# 4. Sales Performance Analysis
+
+### Project Overview
+
+This project analyses retail sales and profitability across different products, countries and business segments. It examines sales patterns, profit performance, discounting practices and factors associated with business profitability.
+
+Using R, the analysis applies statistical methods to generate insights into commercial performance and support evidence-based decision-making.
+
+### Statistical Methods
+
+- Data cleaning and exploratory data analysis
+- Descriptive statistics
+- Spearman correlation analysis
+- Kruskal–Wallis test
+- Dunn's post-hoc test with Holm adjustment
+- Multiple linear regression
+- Regression diagnostics and HC3 robust standard errors
+
+### Research Report
+
+[📊 View Sales Performance Analysis Report](sales_performance_report.html){target="_blank"}
+
+### Tools Used
+
+R · RStudio · Quarto · Statistical Analysis · Regression Modelling · Data Visualisation · GitHub
+
+### Retail Sales Performance Analysis
+
+A statistical investigation of retail sales, profitability and business performance using R. The project examines sales patterns, customer segments, product performance, discount strategies and the factors associated with profitability using descriptive statistics, non-parametric tests, correlation analysis and multiple linear regression.
+
+**Tools:** R, RStudio, Quarto and statistical modelling.
+
+**Report:** [View or Download the Full PDF Report](https://mwanja-collab.github.io/Mwanja-Portfolio/Retail_Sales_Performance_Analysis.pdf)
