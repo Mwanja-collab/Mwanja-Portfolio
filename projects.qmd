@@ -2,110 +2,56 @@
 title: "Projects"
 ---
 
-# 1. Statistical Analysis Projects
-
-### Project Summary
-
-These projects present end-to-end data analyses performed in R, focusing on exploratory data analysis, statistical modelling, and data visualisation.
-
-### Key Objectives & Findings
-
-- **Data Wrangling:** Processed and cleaned datasets using `tidyverse`.
-- **Statistical Modelling:** Conducted regression analysis and hypothesis testing to evaluate key variables.
-- **Visualisations:** Created charts using `ggplot2`.
+::: project-page
+My projects demonstrate the application of statistical methods, data analysis and programming to practical and research problems. They cover exploratory analysis, statistical modelling, hypothesis testing and data visualisation using real-world datasets.
 
 ------------------------------------------------------------------------
 
-[📄 Open / Download Full PDF Report](Statistical-Analysis.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}
+## 1. Statistical Analysis of Global Indicators
+
+A collection of statistical investigations applying quantitative techniques to explore datasets, identify patterns and draw evidence-based conclusions.
+
+**Focus:** Data cleaning, exploratory analysis, statistical modelling and visualisation.
+
+**Tools:** R, RStudio and statistical methods.
+
+**Report:** [View / Download Statistical Analysis Report](files/Statistical-Analysis.pdf)
 
 ------------------------------------------------------------------------
 
-# 2. Statistical Assessment of Water Service Providers in Kenya
+## 2. Statistical Assessment of Water Service Providers in Kenya
 
-### Project Overview
+An assessment of the operational, financial and service delivery performance of Kenyan water service providers, with particular attention to non-revenue water (NRW).
 
-This project analyses the operational, financial, and service delivery performance of water service providers in Kenya, with particular attention to non-revenue water (NRW).
+**Methods:** Descriptive statistics, data quality assessment, Pearson correlation and Wilcoxon rank-sum testing.
 
-Using statistical methods in R, the study examines the distribution of NRW, relationships with selected operational and financial indicators, and differences between compliant and non-compliant water service providers.
+**Tools:** R, RStudio and ggplot2.
 
-### Statistical Methods
+**Dataset:** [GitHub repository](https://github.com/Mwanja-collab/Kenya-Water-Performance) · [Zenodo record](https://doi.org/10.5281/zenodo.23685035)
 
-- Descriptive statistics
-- Data quality assessment
-- Data visualisation using `ggplot2`
-- Pearson correlation analysis
-- Wilcoxon rank-sum test
-
-### Research Report
-
-[📄 View / Download Report](files/water_performance_report.pdf){.btn .btn-primary target="_blank"}
-
-### Dataset and Reproducibility
-
-The dataset is available for researchers, students, and other interested users through the following repositories.
-
-- [**Access Dataset on GitHub**](https://github.com/Mwanja-collab/Kenya-Water-Performance) — view the repository and download the CSV file.
-- [**Cite Dataset on Zenodo**](https://doi.org/10.5281/zenodo.23685035) — access the dataset's permanent DOI record.
-
-### Tools Used
-
-R · RStudio · Statistical Analysis · Data Visualisation · GitHub · Zenodo
+**Report:** [View / Download Water Performance Report](files/water_performance_report.pdf)
 
 ------------------------------------------------------------------------
 
-# 3. Student Academic Performance Analysis
+## 3. Student Academic Performance Analysis
 
-### Project Overview
+An investigation of factors associated with students' academic performance using the Mathematics Student Performance dataset from the UCI Machine Learning Repository. The analysis explores educational, demographic, family and lifestyle characteristics.
 
-This project analyses student academic performance using the Mathematics Student Performance dataset obtained from the UCI Machine Learning Repository. It examines demographic, family, educational, social and lifestyle characteristics associated with students' academic outcomes.
+**Methods:** Exploratory data analysis, hypothesis testing, multiple linear regression, logistic regression, weighted logistic regression and model evaluation.
 
-The study applies statistical methods to investigate factors associated with final examination grades and identify students who may be at risk of poor academic performance.
+**Tools:** R, statistical modelling and data visualisation.
 
-### Statistical Methods
-
-- Descriptive statistics and exploratory data analysis
-- Statistical hypothesis testing
-- Multiple linear regression
-- Logistic regression
-- Weighted logistic regression
-- Model evaluation using confusion matrices, sensitivity, specificity and ROC-AUC
-
-### Research Report
-
-[📄 View / Download Report](https://mwanja-collab.github.io/Mwanja-Portfolio/files/Students_perfomance_report.pdf){.btn .btn-primary target="_blank"}
+**Report:** [View / Download Research Report](files/Students_perfomance_report.pdf)
 
 ------------------------------------------------------------------------
 
-# 4. Sales Performance Analysis
+## 4. Retail Sales Performance Analysis
 
-### Project Overview
+An in-depth investigation of retail sales and profitability, focusing on differences across business segments, products and countries. The project examines discount strategies and factors associated with profit performance.
 
-This project analyses retail sales and profitability across different products, countries and business segments. It examines sales patterns, profit performance, discounting practices and factors associated with business profitability.
+**Methods:** Spearman correlation, Kruskal–Wallis testing, Dunn's post-hoc test with Holm adjustment, multiple linear regression and regression diagnostics using HC3 robust standard errors.
 
-Using R, the analysis applies statistical methods to generate insights into commercial performance and support evidence-based decision-making.
+**Tools:** R, RStudio, Quarto and ggplot2.
 
-### Statistical Methods
-
-- Data cleaning and exploratory data analysis
-- Descriptive statistics
-- Spearman correlation analysis
-- Kruskal–Wallis test
-- Dunn's post-hoc test with Holm adjustment
-- Multiple linear regression
-- Regression diagnostics and HC3 robust standard errors
-
-### Research Report
-
-[📊 View Sales Performance Analysis Report](sales_performance_report.html){target="_blank"}
-
-### Tools Used
-
-R · RStudio · Quarto · Statistical Analysis · Regression Modelling · Data Visualisation · GitHub
-
-### Retail Sales Performance Analysis
-
-A statistical investigation of retail sales, profitability and business performance using R. The project examines sales patterns, customer segments, product performance, discount strategies and the factors associated with profitability using descriptive statistics, non-parametric tests, correlation analysis and multiple linear regression.
-
-**Tools:** R, RStudio, Quarto and statistical modelling.
-
-**Report:** [View or Download the Full PDF Report](https://mwanja-collab.github.io/Mwanja-Portfolio/Retail_Sales_Performance_Analysis.pdf)
+**Report:** [View / Download Full PDF Report](Retail_Sales_Performance_Analysis.pdf)
+:::
